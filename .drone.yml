@@ -1,0 +1,5 @@
+pipeline:
+    build:
+          image: java
+              commands:
+                      - java -version
